@@ -4,7 +4,7 @@
 
 ### Aspiring IT Professional | Linux Enthusiast | Hardware & Network Troubleshooting
 
-I'm an Information Technology student at the **University of Phoenix**, pursuing my Bachelor of Science in IT with an expected graduation in **2029**.
+I'm currently pursuing my Bachelor of Science in Information Technology at the University of Phoenix. I'm on track to earn my associate degree in October 2027, followed by my bachelor's degree in 2029.
 
 I enjoy taking computers apart, figuring out why things aren't working, and getting them running again. I'm building my skills through hands-on projects, real workplace repairs, and networking labs.
 
